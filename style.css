@@ -56,7 +56,7 @@ button{
 
 #signup{
     text-align:center;
-    
+    margin-top:30px;
 }
 
 #cat{
@@ -68,9 +68,15 @@ button{
 
 
 #content-title{
-    color:darkgoldenrod;
-    height:200px;
-    margin:0px;
+    height:100px;
+    margin-top:30px;
     text-align: center;
-    background-image: linear-gradient(black, white);
+}
+
+#song-row{
+    justify-content: space-around;
+}
+
+.playlist{
+    box-shadow: 5px 5px 5px 5px gray;
 }
