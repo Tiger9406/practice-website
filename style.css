@@ -13,6 +13,11 @@ ul{
     gap: 15px;
 }
 
+a{
+    text-decoration: none;
+    color:inherit;
+}
+
 .header{
     font-weight:bold;
     color:ghostwhite;
